@@ -5,7 +5,7 @@ You can use the [editor on GitHub](https://github.com/KesPatil/genomics/edit/mas
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 
-Years of silence cause the inner flooding of the desire to express and from the many other alternatives possible is channeled here in words
+Years of silence cause the inner flooding of the desire to express and from the many other alternatives possible is channeled here in words framed as poems, time-tested technique to creep in hidden messages often captured in one or few sentences amongst the whole.
 
 ### Markdown
 
