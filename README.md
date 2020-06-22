@@ -7,6 +7,33 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 Years of silence cause the inner flooding of the desire to express and from the many other alternatives possible is channeled here in words framed as poems, time-tested technique to creep in hidden messages often captured in one or few sentences amongst the whole.
 
+
+THIS IS MY FIRST POEM---
+No,
+Time's neither on the end ,nor is it late to take a vow,
+to cherish all the aspects of life that you owe,
+to your parents and ancestral 
+generations near and far above.
+Yes,
+its not wise to credit ,yourself alone with the success,
+celebrations,moments of exuberance and praises,
+coz all those dark-faint,burning-shivering,
+breathless heights-drowning deeps of life phases,
+were accompanied by blood relations or their soul gazes.
+Hey,
+why you cry upon your stars & lead yourself astray,
+jeevan me tu kya kuch nahi kar sakta bey?
+Your childhood may not have allowed you 
+to have a royal elephant ride,
+dear,grow on your feet ,fly in the 
+planes in the skies far and wide.
+Let the same sky witness your glorious 
+passion;
+But do not let you feet off the ground,
+which supported your ambition,
+coz life is not a curse,its an examination..
+
+
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
